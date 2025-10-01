@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/prashantagarwal/Desktop/mlops/campusx-storage
